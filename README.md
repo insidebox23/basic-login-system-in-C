@@ -1,4 +1,5 @@
-Este proyecto es un login system basico, soy conciente que tiene errores en el buffer de entrada de tipo caracter, aun asi lo utilize para reforzar lo aprendido en C.
-Pretendo a medida que siga mejorando hacer mas robusto el programa, con arrays y punteros y ojala una memoria dinamica para hacer pruebas dentro del ambito de la ciberseguridad
+Este proyecto es un sistema de login básico. Soy consciente de que tiene errores relacionados con el manejo del buffer de entrada de caracteres, pero lo utilicé para reforzar lo aprendido en C.
 
-Dame tu opinion que te ah parecido, nos vemos pronto!
+Pretendo, a medida que siga mejorando, hacer el programa más robusto, utilizando arrays, punteros y, ojalá, memoria dinámica para realizar pruebas en el ámbito de la ciberseguridad.
+
+Dame tu opinión sobre qué te ha parecido. ¡Nos vemos pronto!
